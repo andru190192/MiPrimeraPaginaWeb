@@ -22,6 +22,10 @@ img{
 	background-color: #eee;
 }
 
+.mediano{
+	font-size: 1.3em;
+}
+
 .vete-arriba{
 	vertical-align: top;
 }
@@ -46,7 +50,7 @@ img{
 .inline-block{
 	float: none;
 	display: inline-block;
-	margin-right: -4px;
+	margin-right: -8px;
 }
 
 .no-lista li{
